@@ -6,8 +6,20 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola mundo";
+    int n, total;
+    double numero, suma;
+    cout << "Ingrese el total de numeros: "; cin >> n;
+    total = n;
+    suma = 0;
+    while (total > 0){
+        cout << "Ingrese un número: "; cin >> numero;
+        suma = suma + numero;
+        total = total - 1;
+    }
+    cout << "La suma de los" << n << " numeros es: " << suma;
 }
+
+
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
