@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/GitHubRepositorio/ProgramC-/main.cpp" "CMakeFiles/ProgramC_.dir/main.cpp.obj" "gcc" "CMakeFiles/ProgramC_.dir/main.cpp.obj.d"
+  "D:/GitHubRepositorio/ProgramC-/ER_VisualC++/Recursividad.cpp" "CMakeFiles/ProgramC_.dir/ER_VisualC++/Recursividad.cpp.obj" "gcc" "CMakeFiles/ProgramC_.dir/ER_VisualC++/Recursividad.cpp.obj.d"
   )
 
 # Targets to which this target links.

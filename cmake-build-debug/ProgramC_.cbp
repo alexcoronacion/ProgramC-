@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/GitHubRepositorio/ProgramC-/main.cpp">
+		<Unit filename="D:/GitHubRepositorio/ProgramC-/ER_VisualC++/Recursividad.cpp">
 			<Option target="ProgramC_"/>
 		</Unit>
 		<Unit filename="D:/GitHubRepositorio/ProgramC-/CMakeLists.txt">

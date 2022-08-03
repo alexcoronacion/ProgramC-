@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ProgramC_.dir/main.cpp.obj"
-  "CMakeFiles/ProgramC_.dir/main.cpp.obj.d"
+  "CMakeFiles/ProgramC_.dir/ER_VisualC++/Recursividad.cpp.obj"
+  "CMakeFiles/ProgramC_.dir/ER_VisualC++/Recursividad.cpp.obj.d"
   "ProgramC_.exe"
   "ProgramC_.exe.manifest"
   "ProgramC_.pdb"
