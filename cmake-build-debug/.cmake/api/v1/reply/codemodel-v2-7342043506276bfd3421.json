@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/GitRepositorio/ProgramC-/cmake-build-debug",
-		"source" : "D:/GitRepositorio/ProgramC-"
+		"build" : "D:/GitHubRepositorio/ProgramC-/cmake-build-debug",
+		"source" : "D:/GitHubRepositorio/ProgramC-"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }
