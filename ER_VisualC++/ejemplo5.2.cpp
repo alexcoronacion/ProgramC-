@@ -4,12 +4,11 @@
 #include "iostream"
 using namespace std;
 int main(){
-    int numero,contador;
-    contador=0;
-    cout<<"Ingrese numero: ";cin>>numero;
-    while(numero>0){
-        cout<<"Ingrese numero: ";cin>>numero;
-        contador++;
+    int potencia;
+    potencia=1;
+    while(potencia<1000){
+        cout<<potencia<<endl;
+        potencia*=2;
     }
-    cout<<"Cantidad de numeros positivos son: "<<contador;
+    return 0;
 }
