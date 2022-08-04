@@ -1,4 +1,10 @@
 # ninja log v5
-786	973	6812476724688064	ProgramC_.exe	18b739287ab2f3ac
 1	722	6812682182639314	CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj	f31f4f93f545fa98
-734	908	6812682184488432	ProgramC_.exe	505581662881796
+982	1178	6813326637966878	ProgramC_.exe	a6b71be26e15ba4c
+5	802	6813307359930832	CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.18.cpp.obj	88258fbf158934de
+6	743	6813271736422883	CMakeFiles/ProgramC_.dir/ER_VisualC++/factorial02.cpp.obj	5344ae1d2ad564a0
+2	240	6813329354406226	build.ninja	bdb221a164d0f052
+5	880	6813313249525356	CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.19.cpp.obj	a1e8d7f6c1f9c1d2
+5	981	6813326635997817	CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.20.cpp.obj	a089a35cbdc3cd25
+0	938	6813333727938132	CMakeFiles/ProgramC_.dir/ER_VisualC++/ejercicio5.1.cpp.obj	5a80298414303422
+947	1141	6813333730047126	ProgramC_.exe	19b9c182ccca18e5
