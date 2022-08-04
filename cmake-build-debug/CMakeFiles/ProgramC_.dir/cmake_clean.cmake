@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj"
-  "CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj.d"
+  "CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj"
+  "CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj.d"
   "ProgramC_.exe"
   "ProgramC_.exe.manifest"
   "ProgramC_.pdb"

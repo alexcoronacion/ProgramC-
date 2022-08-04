@@ -68,28 +68,28 @@ include CMakeFiles/ProgramC_.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ProgramC_.dir/flags.make
 
-CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj: CMakeFiles/ProgramC_.dir/flags.make
-CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj: ../ER_VisualC++/ejemplo5.2.cpp
-CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj: CMakeFiles/ProgramC_.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\GitHubRepositorio\ProgramC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj"
-	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj -MF CMakeFiles\ProgramC_.dir\ER_VisualC++\ejemplo5.2.cpp.obj.d -o CMakeFiles\ProgramC_.dir\ER_VisualC++\ejemplo5.2.cpp.obj -c D:\GitHubRepositorio\ProgramC-\ER_VisualC++\ejemplo5.2.cpp
+CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj: CMakeFiles/ProgramC_.dir/flags.make
+CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj: ../ER_VisualC++/referencias.cpp
+CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj: CMakeFiles/ProgramC_.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\GitHubRepositorio\ProgramC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj"
+	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj -MF CMakeFiles\ProgramC_.dir\ER_VisualC++\referencias.cpp.obj.d -o CMakeFiles\ProgramC_.dir\ER_VisualC++\referencias.cpp.obj -c D:\GitHubRepositorio\ProgramC-\ER_VisualC++\referencias.cpp
 
-CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.i"
-	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\GitHubRepositorio\ProgramC-\ER_VisualC++\ejemplo5.2.cpp > CMakeFiles\ProgramC_.dir\ER_VisualC++\ejemplo5.2.cpp.i
+CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.i"
+	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\GitHubRepositorio\ProgramC-\ER_VisualC++\referencias.cpp > CMakeFiles\ProgramC_.dir\ER_VisualC++\referencias.cpp.i
 
-CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.s"
-	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\GitHubRepositorio\ProgramC-\ER_VisualC++\ejemplo5.2.cpp -o CMakeFiles\ProgramC_.dir\ER_VisualC++\ejemplo5.2.cpp.s
+CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.s"
+	C:\Users\alexc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\GitHubRepositorio\ProgramC-\ER_VisualC++\referencias.cpp -o CMakeFiles\ProgramC_.dir\ER_VisualC++\referencias.cpp.s
 
 # Object files for target ProgramC_
 ProgramC__OBJECTS = \
-"CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj"
+"CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj"
 
 # External object files for target ProgramC_
 ProgramC__EXTERNAL_OBJECTS =
 
-ProgramC_.exe: CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj
+ProgramC_.exe: CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj
 ProgramC_.exe: CMakeFiles/ProgramC_.dir/build.make
 ProgramC_.exe: CMakeFiles/ProgramC_.dir/linklibs.rsp
 ProgramC_.exe: CMakeFiles/ProgramC_.dir/objects1.rsp

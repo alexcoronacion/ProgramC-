@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ProgramC_::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ProgramC_-Debug-8b8f37701f92ba5aa268.json",
+					"jsonFile" : "target-ProgramC_-Debug-3305fa423a13849257e3.json",
 					"name" : "ProgramC_",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/GitRepositorio/ProgramC-/cmake-build-debug",
-		"source" : "D:/GitRepositorio/ProgramC-"
+		"build" : "D:/GitHubRepositorio/ProgramC-/cmake-build-debug",
+		"source" : "D:/GitHubRepositorio/ProgramC-"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

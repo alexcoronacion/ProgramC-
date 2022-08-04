@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/GitHubRepositorio/ProgramC-/ER_VisualC++/ejemplo5.2.cpp">
+		<Unit filename="D:/GitHubRepositorio/ProgramC-/ER_VisualC++/referencias.cpp">
 			<Option target="ProgramC_"/>
 		</Unit>
 		<Unit filename="D:/GitHubRepositorio/ProgramC-/CMakeLists.txt">

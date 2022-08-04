@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/GitHubRepositorio/ProgramC-/ER_VisualC++/ejemplo5.2.cpp" "CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj" "gcc" "CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj.d"
+  "D:/GitHubRepositorio/ProgramC-/ER_VisualC++/referencias.cpp" "CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj" "gcc" "CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj.d"
   )
 
 # Targets to which this target links.

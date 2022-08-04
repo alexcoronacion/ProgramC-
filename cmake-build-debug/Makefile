@@ -128,29 +128,29 @@ ProgramC_/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/build
 .PHONY : ProgramC_/fast
 
-ER_VisualC++/ejemplo5.2.obj: ER_VisualC++/ejemplo5.2.cpp.obj
-.PHONY : ER_VisualC++/ejemplo5.2.obj
+ER_VisualC++/referencias.obj: ER_VisualC++/referencias.cpp.obj
+.PHONY : ER_VisualC++/referencias.obj
 
 # target to build an object file
-ER_VisualC++/ejemplo5.2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.obj
-.PHONY : ER_VisualC++/ejemplo5.2.cpp.obj
+ER_VisualC++/referencias.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.obj
+.PHONY : ER_VisualC++/referencias.cpp.obj
 
-ER_VisualC++/ejemplo5.2.i: ER_VisualC++/ejemplo5.2.cpp.i
-.PHONY : ER_VisualC++/ejemplo5.2.i
+ER_VisualC++/referencias.i: ER_VisualC++/referencias.cpp.i
+.PHONY : ER_VisualC++/referencias.i
 
 # target to preprocess a source file
-ER_VisualC++/ejemplo5.2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.i
-.PHONY : ER_VisualC++/ejemplo5.2.cpp.i
+ER_VisualC++/referencias.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.i
+.PHONY : ER_VisualC++/referencias.cpp.i
 
-ER_VisualC++/ejemplo5.2.s: ER_VisualC++/ejemplo5.2.cpp.s
-.PHONY : ER_VisualC++/ejemplo5.2.s
+ER_VisualC++/referencias.s: ER_VisualC++/referencias.cpp.s
+.PHONY : ER_VisualC++/referencias.s
 
 # target to generate assembly for a file
-ER_VisualC++/ejemplo5.2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/ejemplo5.2.cpp.s
-.PHONY : ER_VisualC++/ejemplo5.2.cpp.s
+ER_VisualC++/referencias.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramC_.dir\build.make CMakeFiles/ProgramC_.dir/ER_VisualC++/referencias.cpp.s
+.PHONY : ER_VisualC++/referencias.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ProgramC_
-	@echo ... ER_VisualC++/ejemplo5.2.obj
-	@echo ... ER_VisualC++/ejemplo5.2.i
-	@echo ... ER_VisualC++/ejemplo5.2.s
+	@echo ... ER_VisualC++/referencias.obj
+	@echo ... ER_VisualC++/referencias.i
+	@echo ... ER_VisualC++/referencias.s
 .PHONY : help
 
 
