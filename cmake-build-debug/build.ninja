@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/GitRepositorio/ProgramC-/cmake-build-debug/
 
 build cmake_object_order_depends_target_ProgramC_: phony || CMakeFiles/ProgramC_.dir
 
-build CMakeFiles/ProgramC_.dir/ER_VisualC++/ejercicio5.1.cpp.obj: CXX_COMPILER__ProgramC__Debug D$:/GitRepositorio/ProgramC-/ER_VisualC++/ejercicio5.1.cpp || cmake_object_order_depends_target_ProgramC_
-  DEP_FILE = CMakeFiles\ProgramC_.dir\ER_VisualC++\ejercicio5.1.cpp.obj.d
+build CMakeFiles/ProgramC_.dir/ER_VisualC++/EJERCICIOS.cpp.obj: CXX_COMPILER__ProgramC__Debug D$:/GitRepositorio/ProgramC-/ER_VisualC++/EJERCICIOS.cpp || cmake_object_order_depends_target_ProgramC_
+  DEP_FILE = CMakeFiles\ProgramC_.dir\ER_VisualC++\EJERCICIOS.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ProgramC_.dir
   OBJECT_FILE_DIR = CMakeFiles\ProgramC_.dir\ER_VisualC++
@@ -63,7 +63,7 @@ build CMakeFiles/ProgramC_.dir/ER_VisualC++/ejercicio5.1.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable ProgramC_.exe
 
-build ProgramC_.exe: CXX_EXECUTABLE_LINKER__ProgramC__Debug CMakeFiles/ProgramC_.dir/ER_VisualC++/ejercicio5.1.cpp.obj
+build ProgramC_.exe: CXX_EXECUTABLE_LINKER__ProgramC__Debug CMakeFiles/ProgramC_.dir/ER_VisualC++/EJERCICIOS.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ProgramC_.dir
